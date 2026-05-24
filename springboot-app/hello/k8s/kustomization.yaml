@@ -9,4 +9,4 @@ resources:
 images:
 - name: itsmeyjc/hello-app
   newName: itsmeyjc/hello-app
-  newTag: "2289782"
+  newTag: 6b5c45a
